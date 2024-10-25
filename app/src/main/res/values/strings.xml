@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">smarthome</string>
+    <string name="logo">App Logo</string>
+    <string name="the_tolet">家居管理</string>
+    <string name="find_house">门锁管理</string>
+    <string name="login">登录</string>
+</resources>
